@@ -1,0 +1,1 @@
+Today, we're diving into the world of Infrastructure as Code (IaC) with Terraform by HashiCorp. We'll walk through the steps to set up a basic AWS infrastructure, including a VPC, a subnet, and an EC2 instance. Whether you're a seasoned developer or a newcomer, this guide will help you understand the fundamentals of using Terraform to manage AWS resources.
